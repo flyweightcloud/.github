@@ -4,6 +4,4 @@
 
 Flyweight Cloud believes that open source has a strong role to play in low-code and no-code development.
 
-Keep an eye on this page for updates as well start rolling out more products.
-
-In the meantime, subscribe to our Low-Code news page at [https://www.linkedin.com/showcase/flyweight-low-code-news](https://www.linkedin.com/showcase/flyweight-low-code-news)
+Keep an eye on this page for updates as well start rolling out more tools and products.
